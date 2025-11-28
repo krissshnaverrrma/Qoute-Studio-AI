@@ -48,8 +48,8 @@
 │       └── favicon.png    # App Icon
 └── templates/
     └── index.html        # Main Dashboard Interface
+---
 
---
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the application locally.
@@ -95,6 +95,7 @@ For questions or feedback, please reach out to:
 * **GitHub:** [https://github.com/krissshnaverrrma]
 * **Linkedin** [https://www.linkedin.com/in/krishna-verma-43aa85315/]
 * **Email:** [krishnav24-cs@sanskar.org]
+
 
 
 ---
